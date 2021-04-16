@@ -6,6 +6,11 @@ body{
   background-position: center;
   height: 250px;
   padding-top: 75px;
+  background-image: url("drunkletters.jpg");
+}
+
+#szelesseg, #magassag{
+  margin: 0px auto 15px auto;
 }
 
 .bg-fej h1{
